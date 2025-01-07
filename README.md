@@ -12,5 +12,5 @@ This project aims to enhance the performance of marketing campaigns for a leadin
 
 <h2>Additional Files</h2>
 
-- <b>Data Cleaning process can be found [here](https://colab.research.google.com/drive/1QxYeXqh_RkqyCef7VDDOyeTfm1l2cTUS?usp=sharing)</b> 
-- <b>Python visualization can be found [here](https://colab.research.google.com/drive/1yyLZiiX8L9_-qwDL3iyINatI8RQUf3eO?usp=sharing)</b>
+- <b>Data Cleaning process can be found [here](Project_Based_Learning.ipynb)</b> 
+- <b>Python visualization can be found [here](PBL_Visualization.ipynb)</b>
