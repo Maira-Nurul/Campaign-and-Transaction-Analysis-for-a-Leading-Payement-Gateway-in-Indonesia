@@ -50,20 +50,30 @@ Below is the overview page from Tableau dashboard for customer's and merchant's 
 
 
 <b>Customer Analysis</b> 
-- The data reveals a significant difference between the amount of Non-Premium (22,740) and Premium (362) customers, highlighting opportunities to boost Non-Premium engagement and maintain Premium loyalty. To encourage Non-Premium users to upgrade, targeted marketing campaigns utilizing social media and app notifications, coupled with incentives like cashbacks and rewards, are recommended. For Premium customers, loyalty can be reinforced through exclusive offers, priority services, and enhanced rewards programs. 
-- The customer segmentation data shows that the largest group consists of low-frequency-low spender customers (14,247), while and medium frequency- high spender groups  have only two customers. Each segment requires a tailored approach to maximize transaction growth.  
-- The highest revenue (Rp 959 million) comes from customers aged 30–35, while the lowest is from those aged >65, contributing less than Rp 1 million. Strategies can be developed to optimize promotions, focusing on the 20–35 age group.
+- The data reveals a significant difference between the amount of Non-Premium (22,737) and Premium (362) customers, highlighting opportunities to boost Non-Premium engagement and maintain Premium loyalty. To encourage Non-Premium users to upgrade, targeted marketing campaigns utilizing social media and app notifications, coupled with incentives like cashbacks and rewards, are recommended. For Premium customers, loyalty can be reinforced through exclusive offers, priority services, and enhanced rewards programs. 
+- The customer segmentation data shows that the largest group consists of low-frequency-low spender customers (14,244), while both medium frequency- high spender and low frequency-high spender groups have only two customers. The substantial difference between the number of low spenders and high/medium spenders further highlights the importance for strategies aimed at increasing customer spending.
+- The highest revenue (Rp 957 million) comes from customers aged 30–35, while the lowest is from those aged >80, contributing less than Rp 1 million. Strategies can be developed to optimize promotions, focusing on the 20–35 age group.
 
 
 <b>Merchant Analysis</b>
-- Merchant 1308 recorded the highest transaction volume and revenue (Rp 192 million), making it a key contributor. To sustain its performance, exclusive programs like joint promotions and seamless payment access are crucial. There is a significant decline in transaction volume and revenue from Merchant 1308 compared to other merchants. This highlights the importance of further analyzing the success factors of top-performing merchants and identifying strategies to enhance sales for others.
+-Merchant 4568 recorded the highest transaction volume (40,000) and revenue (Rp 3,651 million), making it a key contributor. To sustain its performance, exclusive programs like joint promotions and seamless payment access are crucial. There is a significant decline in transaction volume and revenue from Merchant 4568 compared to other merchants. This highlights the importance of further analyzing the success factors of top-performing merchants and identifying strategies to enhance sales for others. Further analysis also shows that higher transaction counts doesn't always mean higher profits as is the case with merchants 1356 and 453.
 - Revenue analysis by merchant categories highlights that high transaction counts don't always translate to high revenue.  The "Other" category has the highest transaction volume at 85,546, generating revenue of Rp 6.38 billion and an average revenue of Rp 75,000 per transaction.  In contrast, "Health and Personal Care" has the lowest transaction volume, with revenue of Rp 1.7 million and an average revenue of Rp 848,000.
 
-Below is the overview page from Tableau dashboard for campaign performance  The entire interactive dashboard can be donwloaded [here](https://public.tableau.com/views/CampaignPerformance_17362437719300/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Below is the overview page from Tableau dashboard for campaign performance.  The entire interactive dashboard can be donwloaded [here](https://public.tableau.com/views/CampaignPerformance_17362437719300/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 <p align="center">
 <br/>
-<img src=" https://raw.githubusercontent.com/Maira-Nurul/Campaign-and-Transaction-Analysis-for-a-Leading-Payement-Gateway-in-Indonesia/refs/heads/main/Docs/Dashboard%202.png" height="70%" width="70%">
+<img src="https://raw.githubusercontent.com/Maira-Nurul/Campaign-and-Transaction-Analysis-for-a-Leading-Payement-Gateway-in-Indonesia/refs/heads/main/Docs/Dashboard%202.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+
+<b>Campaign Performance Analysis</b> 
+- Promo usage fluctuates monthly, with peak promo usage in January, February, March, and December with the exception of December 2021.  Significant gaps between promo usage and promo quota occur in September, October, and November.  March consistently shows the highest revenue during the 2021-2022 period, meanwhile December and June has the highest revenue in 2023 and 2024 respectively.  December 2023 shows highest revenue (400 million) for the 2021-2024 period.
+- Campaigns lasting 13-16, 30-31, and 42 days are most effective in driving promo usage. However campaign with the duration of 30-31 and 42 days has a significantly lower revenue compared to campaigns that lasts 13-16 days.  The 16-day campaign had the highest usage, with revenue of Rp 3,62 million.
+- Retail and Other categories show consistent promo usage increases from 2021-2024.  Promo usage drops in September and October for these categories.  Meanwhile Electronics & Telecom, Entertainment & Media, and Services promo usage drops significantly after 2021.  In 2021 promo usage for Electronics and Telecom is almost non existant.
+- Certain campaigns (such as Campaign ID 930, 896, 918) generate the highest revenue. Some campaigns have high transaction volumes but lower revenue, such as Campaign ID 903, 810, 933.  CEBAN campaign has the highest transaction volume and revenue (6 billion), followed by JEMPOLAN (142 million).  Almost all of the campaigns are dominated by non-premium customers with the exception of RamadanBenefit.  Furthermore, premium customers favors these campaigns: CEBAN, SILIHAICEBAN, DOKU CEBAN, SAATNYABITTIME
+
+
+
+<h2>Recommendations</h2>
