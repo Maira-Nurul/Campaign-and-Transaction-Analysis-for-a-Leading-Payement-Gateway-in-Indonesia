@@ -1,4 +1,4 @@
-<h1> Campaign adn Transaction Analysis for Leading Payment Gateway </h1>
+<h1> Campaign and Transaction Analysis for Leading Payment Gateway </h1>
 
 <h2>Description</h2>
 
