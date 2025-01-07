@@ -9,12 +9,15 @@ Insights and recommendation are provided on the following key areas
 - <b>Merchant behavior:</b> Analyze merchant data to gain insights into merchant performance such as top performing merchants and top merchant categories
 - <b>Campaign performance:</b> Analyze transaction data to gain insights into campaign performance based on key factors such as monthly transaction trends, promo usage based on categories, customer engagement, etc.
 
+Interactive dashboard for customers and merchants can be found [here](https://public.tableau.com/views/CustomerMerchants/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+Interactive dashboard for campaign performance can be found [here](https://public.tableau.com/views/CampaignPerformance_17362437719300/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 Python code for data cleaning  can be found [here](Project_Based_Learning.ipynb)
 
 Python visualization can be found [here](PBL_Visualization.ipynb)
 
-SQL Code for analysis can be found [here]
-
+Targeted SQL queries regarding various business questions can be found [here](https://github.com/Maira-Nurul/Campaign-and-Transaction-Analysis-for-a-Leading-Payement-Gateway-in-Indonesia/blob/main/Transaction%20and%20Campaign%20Performance%20Analysis/Scripts/Transaction%20Queries.sql)
 
 
 <h2>Tools Used</h2>
