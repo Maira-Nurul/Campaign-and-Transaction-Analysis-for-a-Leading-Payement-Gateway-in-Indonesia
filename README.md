@@ -5,7 +5,7 @@
 <p align="justify"> This project aims to enhance the performance of marketing campaigns for a leading payment gateway in Indonesia by analyzing historical campaign and customer transaction data from 2021 to 2024. The results provide insights such as customer segmentation, customer behavior based on merchant categories and time, revenue and transaction volume by merchants, customer engagement, and more, which will assist the marketing team in making informed decisions and improvements.</p>
 
 
-Insights and recommendation are provided on the following key areas
+Insights and recommendation are provided on the following key areas:
 - <p align="justify"> <b>Customers behavior:</b> Analyze customer data to gain insights into transaction patterns based on key factors such as status (premium vs. non-premium), age, geographic location, and segmentation.</p>
 - <p align="justify"> <b>Merchant behavior:</b> Analyze merchant data to gain insights into merchant performance such as top performing merchants and top merchant categories.</p>
 - <p align="justify"> <b>Campaign performance:</b> Analyze transaction data to gain insights into campaign performance based on key factors such as monthly transaction trends, promo usage based on categories, customer engagement, etc.</p>
