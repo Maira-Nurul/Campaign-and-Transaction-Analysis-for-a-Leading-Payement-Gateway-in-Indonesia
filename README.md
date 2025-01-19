@@ -12,7 +12,7 @@ Insights and recommendation are provided on the following key areas:
 
 Interactive dashboard for customers and merchants can be found [here](https://public.tableau.com/views/CustomerMerchants/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-Interactive dashboard for campaign performance can be found [here](https://public.tableau.com/views/CampaignPerformance_17362437719300/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Interactive dashboard for campaign performance can be found [here](https://public.tableau.com/app/profile/humaira.nurul.hadi/viz/CampaignPerformance_17362694843250/Dashboard2)
 
 Python visualization can be found [here](PBL_Visualization.ipynb)
 
@@ -60,7 +60,7 @@ Below is the overview page from Tableau dashboard for customer's and merchant's 
 - <p align="justify"> Merchant 4568 recorded the highest transaction volume (40,000) and revenue (Rp 3,651 million), making it a key contributor. To sustain its performance, exclusive programs like joint promotions and seamless payment access are crucial. There is a significant decline in transaction volume and revenue from Merchant 4568 compared to other merchants. This highlights the importance of further analyzing the success factors of top-performing merchants and identifying strategies to enhance sales for others. Further analysis also shows that higher transaction counts doesn't always mean higher profits as is the case with merchants 1356 and 453.</p>
 - <p align="justify"> Revenue analysis by merchant categories highlights that high transaction counts don't always translate to high revenue.  The "Other" category has the highest transaction volume at 85,546, generating revenue of Rp 6.38 billion and an average revenue of Rp 75,000 per transaction.  In contrast, "Health and Personal Care" has the lowest transaction volume, with revenue of Rp 1.7 million and an average revenue of Rp 848,000.</p>
 
-Below is the overview page from Tableau dashboard for campaign performance.  The entire interactive dashboard can be donwloaded [here](https://public.tableau.com/views/CampaignPerformance_17362437719300/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Below is the overview page from Tableau dashboard for campaign performance.  The entire interactive dashboard can be donwloaded [here](https://public.tableau.com/app/profile/humaira.nurul.hadi/viz/CampaignPerformance_17362694843250/Dashboard2)
 
 
 <p align="center">
